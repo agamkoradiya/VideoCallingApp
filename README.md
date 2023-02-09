@@ -47,6 +47,9 @@ This project is inspired by [dwarshb/WebRTC-Sample](https://github.com/dwarshb/W
 
 * [The Ultimate Guide to WebRTC](https://www.liveswitch.io/ultimate-guide-to-webrtc)
 
+* [Building a Video Chat App: WebRTC on Android](https://getstream.io/blog/webrtc-on-android/)
+
+
 ### For Screen sharing in android using webrtc
 
 * [ScreenShareRTC](https://github.com/Jeffiano/ScreenShareRTC)
